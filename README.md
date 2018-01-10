@@ -1,2 +1,3 @@
 # hello-world
-just another repo
+Not really
+i am trying to learn to use Git
